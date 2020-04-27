@@ -1,2 +1,4 @@
 # suigeneris.github.io
-Holis
+Historia 
+Hipervinculos
+Discografia
